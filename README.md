@@ -3,7 +3,7 @@
 🎓 B.Tech CSE Graduate (2025)
 
 💻 Interested in:
-- JavaScript
+- Java
 - Python
 - SQL
 
